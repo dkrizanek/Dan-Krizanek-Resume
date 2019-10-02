@@ -26,24 +26,9 @@ theme = "hugo-resume"
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/edwardwebb/"
 
-
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/eddiewebb/"
-
-[[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
-
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "keybase"
 
 [params.google.analytics]
     trackerID = "XX-123446-01"
