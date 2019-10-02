@@ -1,2 +1,5 @@
 # Dan-Krizanek-Resume
-Dan Krizanek Serverless Resume
+
+living resume and blog built using hugo and aws
+
+

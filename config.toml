@@ -7,17 +7,16 @@ theme = "hugo-resume"
     firstName = "Dan"
     lastName = "Krizanek"
     address = "Detroit, MI"
-    phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
+    contactNote = "Infrastructure/Cloud/Automation Engineer"
     profileImage = "img/TechChat.png"
     email = "email@domain.com"
     description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
-    showProjects = true
-    showOpenSource = true
-    showPublications = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
     showExperience = true
     showEducation = true
 
