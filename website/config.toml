@@ -9,8 +9,8 @@ theme = "hugo-resume"
     address = "Detroit, MI"
     contactNote = "Infrastructure/Cloud/Automation Engineer"
     profileImage = "img/TechChat.png"
-    email = "email@domain.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    email = "Dan@Krizanek.com"
+    description = "An innovative and hardworking technology professional with years of experience in infrastructure and cloud technologies in the enterprise space"
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
@@ -24,11 +24,11 @@ theme = "hugo-resume"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/dankrizanek/"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/dkrizanek"
 
 [params.google.analytics]
     trackerID = "XX-123446-01"
