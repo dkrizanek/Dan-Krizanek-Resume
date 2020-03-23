@@ -1,20 +1,27 @@
 [
+
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
+        "role":"Senior Infrastructure Engineer",
+        "company":"Credit Acceptance",
         "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "range":"August 2019 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
+        "role":"Infrastructure Engineer",
+        "company":"Credit Acceptance",
+        "summary":"Led in development of fast paced software teams.",
+        "range":"May 2016 - August 2019"
+    },
+    {
+        "role":"Systems Engineer",
+        "company":"Quicken Loans",
         "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "range":"September 2012 - May 2016"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
+        "role":"Virtualization Engineer Intern",
+        "company":"Quicken Loans",
         "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "range":"June 2012 - September 2012"
     }
 ]
